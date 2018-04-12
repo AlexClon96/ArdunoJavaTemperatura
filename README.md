@@ -1,11 +1,11 @@
 # Practica3 Conexion Java-Arduino
 ***
 ## Indice
-+ [Despripcion](#Descripcion)
-+ [Material](#Material)
-+ [Archivos](#Archivos)
-+ [Nota](#Nota)
-+ [Contacto](#Contacto)
++ [Descripcion](#descripcion)
++ [Material](#material)
++ [Archivos](#archivos)
++ [Nota](#nota)
++ [Contacto](#contacto)
 ***
 ## Descripcion
 Este programa  ejemplifica una conexion entre java y arduino en la cual habra una interface en java
