@@ -1,7 +1,11 @@
 # Practica3 Conexion Java-Arduino
 ***
 ## Indice
-
++ [Despripcion](#Descripcion)
++ [Material](#Material)
++ [Archivos](#Archivos)
++ [Nota](#Nota)
++ [Contacto](#Contacto)
 ***
 ## Descripcion
 Este programa  ejemplifica una conexion entre java y arduino en la cual habra una interface en java
@@ -29,6 +33,14 @@ la opcion marcada y se mostrara en la pantalla lcd.
 8. sensor de temperatura LM35
 9. pantalla lcd 16x2
 10. cables para puentear (para protoboard)
+***
+## Archivos 
+* readme: contiene la informacion de lo que realiza  el programa junto con informacion necesaria como el material.
+* imagenes: en esta carpeta se encuentra la evidencia del cirduito en fisico y funcionando.
+* TempLuz.fz:contiene el diagrama del circuito realizado en el programa fritzing (**requiere tener fritzing para poderlo abrir**).
+* Mensajes3.ino: Contiene el codigo de arduino.
+* Int1.java: Contiene la interface grafica de llava la cual  requerira  la libreria **PanamaHitek_Arduino-3.0.0.jar**.
+* PanamaHitek_Arduino-3.0.0.jar: Esta libreria se agrega al paquete de java dando click derecho en la carpeta de librerias agregar libreria jar.
 ***
 ## Nota
 Los documentos de java estan hechos en netbeans por lo que  requerira  la descarga e instalacion de netbeans junto con los otros software como son **arduino** y **fritzin**.
